@@ -1,0 +1,30 @@
+/* font-family: Abel*/
+@font-face {
+    font-family: Abel;
+    src: url('../Fonts/Abel/Abel-Regular.ttf');
+}
+
+/* font-family: Montserrat*/
+@font-face {
+    font-family: Montserrat;
+    src: url('../Fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf');
+}
+
+/* font-family: Roboto*/
+@font-face {
+    font-family: Roboto;
+    src: url('../Fonts/Roboto/Roboto-Regular.ttf');
+}
+
+/* font-family: Roboto_Mono*/
+@font-face {
+    font-family: Roboto_Mono;
+    src: url('../Fonts/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.ttf');
+}
+
+/* font-family: Rubik_Moonrocks*/
+@font-face {
+    font-family: Rubik_Moonrocks;
+    src: url('../Fonts/Rubik_Moonrocks/RubikMoonrocks-Regular.ttf');
+}
+
